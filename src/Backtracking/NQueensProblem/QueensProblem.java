@@ -1,4 +1,4 @@
-package Backtracking;
+package Backtracking.NQueensProblem;
 
 public class QueensProblem {
     private int [][] chessTable;

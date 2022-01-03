@@ -1,4 +1,4 @@
-package Backtracking;
+package Backtracking.ColoringProblem;
 
 public class ColoringProblem {
     private int numOfVertices;

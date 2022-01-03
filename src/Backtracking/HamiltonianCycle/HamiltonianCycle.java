@@ -1,4 +1,4 @@
-package Backtracking;
+package Backtracking.HamiltonianCycle;
 
 public class HamiltonianCycle {
     private int numOfVertices;
