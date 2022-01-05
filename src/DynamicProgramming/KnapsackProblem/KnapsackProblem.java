@@ -52,6 +52,9 @@ public class KnapsackProblem {
     public void showResult(){
         System.out.println("Total Benefit: "+ totalBenefit);
 
+
+
+
         for (int n = numOfItems, w=capacityOfKnapsack; n >0 ; n--) {
             if (knapsackTable[n][w]!=0 && knapsackTable[n][w]!=knapsackTable[n-1][w]){
                 System.out.println(" We take item: #"+n);
