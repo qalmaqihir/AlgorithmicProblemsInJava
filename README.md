@@ -1,9 +1,5 @@
-# Product Name
+# Algorithmic Problem in Java
 > A simple code repository dealing with some basic and intersting problems of CS;
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 ### Contains the below problems
 1. Basic Recursion problems. like Binary Search, Euclidean Algo, Tower of Hanoi, Adding numbers, Factoiral, House Building etc
